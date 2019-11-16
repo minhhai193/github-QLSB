@@ -1,0 +1,25 @@
+C:\DD\Work Space\CNPM\Project\VS\QLSB_Proj\bin\Debug\QLSB_Proj.exe.config
+C:\DD\Work Space\CNPM\Project\VS\QLSB_Proj\bin\Debug\QLSB_Proj.exe
+C:\DD\Work Space\CNPM\Project\VS\QLSB_Proj\bin\Debug\QLSB_Proj.pdb
+C:\DD\Work Space\CNPM\Project\VS\QLSB_Proj\obj\Debug\QLSB_Proj.csprojAssemblyReference.cache
+C:\DD\Work Space\CNPM\Project\VS\QLSB_Proj\obj\Debug\QLSB_Proj.Properties.Resources.resources
+C:\DD\Work Space\CNPM\Project\VS\QLSB_Proj\obj\Debug\QLSB_Proj.csproj.GenerateResource.cache
+C:\DD\Work Space\CNPM\Project\VS\QLSB_Proj\obj\Debug\QLSB_Proj.csproj.CoreCompileInputs.cache
+C:\DD\Work Space\CNPM\Project\VS\QLSB_Proj\obj\Debug\QLSB_Proj.exe
+C:\DD\Work Space\CNPM\Project\VS\QLSB_Proj\obj\Debug\QLSB_Proj.pdb
+C:\DD\Work Space\CNPM\Project\VS\QLSB_Proj\obj\Debug\QLSB_Proj.Login.resources
+C:\DD\Work Space\CNPM\Project\VS\QLSB_Proj\obj\Debug\QLSB_Proj.main.resources
+C:\DD\Work Space\CNPM\Project\VS\QLSB_Proj\obj\Debug\QLSB_Proj.DatSan.resources
+D:\IT\CNPM\QLSB_Proj\bin\Debug\QLSB_Proj.exe.config
+D:\IT\CNPM\QLSB_Proj\bin\Debug\QLSB_Proj.exe
+D:\IT\CNPM\QLSB_Proj\bin\Debug\QLSB_Proj.pdb
+D:\IT\CNPM\QLSB_Proj\obj\Debug\QLSB_Proj.csprojAssemblyReference.cache
+D:\IT\CNPM\QLSB_Proj\obj\Debug\QLSB_Proj.DatSan.resources
+D:\IT\CNPM\QLSB_Proj\obj\Debug\QLSB_Proj.Login.resources
+D:\IT\CNPM\QLSB_Proj\obj\Debug\QLSB_Proj.main.resources
+D:\IT\CNPM\QLSB_Proj\obj\Debug\QLSB_Proj.Properties.Resources.resources
+D:\IT\CNPM\QLSB_Proj\obj\Debug\QLSB_Proj.csproj.GenerateResource.cache
+D:\IT\CNPM\QLSB_Proj\obj\Debug\QLSB_Proj.csproj.CoreCompileInputs.cache
+D:\IT\CNPM\QLSB_Proj\obj\Debug\QLSB_Proj.exe
+D:\IT\CNPM\QLSB_Proj\obj\Debug\QLSB_Proj.pdb
+D:\IT\CNPM\QLSB_Proj\obj\Debug\QLSB_Proj.Form2.resources
